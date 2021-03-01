@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\View\Components\Alert;
+use Facade\Ignition\Support\Packagist\Package;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\View;
 use Illuminate\Support\Facades\Blade;
